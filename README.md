@@ -13,5 +13,5 @@ This repository contains the Python and R source code for my Master's thesis in 
 
 As part of this thesis, a solution was programmed in order to implement both methodologies whether Box Jenkins and LSTM Neural Network and getting the most accurace forecasts possible, which code can be found here:
 
-- [Box Jenkins R coding](https://github.com/wcaraza/rnn_keras_lstm_sales/tree/main/Python%20source): Box Jenkins
+- [Box Jenkins R coding](https://github.com/wcaraza/rnn_keras_lstm_sales/tree/main/R%20source): Box Jenkins
 - [LSTM Neural Network](https://github.com/wcaraza/rnn_keras_lstm_sales/tree/main/Python%20source): LSTM Neural Network
